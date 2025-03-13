@@ -2,7 +2,7 @@
 
 ## Generador de Payloads Ofuscados para Pruebas de Seguridad
 
-![PayPain Banner](images\banner.png)
+![PayPain Banner](images\\banner.png)
 
 ## Descripción
 

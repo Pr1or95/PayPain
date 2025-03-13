@@ -20,14 +20,6 @@ Esta herramienta está diseñada EXCLUSIVAMENTE para fines educativos y pruebas 
 - Opciones de persistencia
 - Interfaz de línea de comandos intuitiva
 
-## Requisitos
-
-- Python 3.6+
-- Bibliotecas de Python:
-  - colorama
-  - pyfiglet
-  - argparse
-
 ## Instalación
 
 ```bash

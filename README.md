@@ -124,7 +124,3 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 3. Haz commit de tus cambios (`git commit -am 'Añadir nueva funcionalidad'`)
 4. Sube los cambios a tu rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
-
-## Contacto
-
-Linkedin: [@jferju](https://www.linkedin.com/in/jferju/) 

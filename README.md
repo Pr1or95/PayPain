@@ -1,6 +1,6 @@
 # PayPain
 
-## Generador de Payloads ofuscados
+## Generador de payloads ofuscados
 
 ![PayPain Banner](images/banner.png)
 
@@ -8,7 +8,7 @@
 
 PayPain es una herramienta de generación de payloads diseñada para profesionales de seguridad informática. Facilita la creación de diversos tipos de cargas útiles para pruebas de penetración en sistemas Linux y Windows.
 
-## ⚠️ Advertencia Legal
+## ⚠️ Advertencia legal
 
 Esta herramienta está diseñada EXCLUSIVAMENTE para fines educativos y pruebas de seguridad autorizadas. El uso indebido de esta herramienta para acceder a sistemas sin autorización es ilegal y puede resultar en consecuencias legales graves. El autor no se hace responsable del mal uso de esta herramienta.
 

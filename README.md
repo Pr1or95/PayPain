@@ -1,6 +1,6 @@
 # PayPain
 
-## Generador de Payloads Ofuscados para Pruebas de Seguridad
+## Generador de Payloads ofuscados
 
 ![PayPain Banner](images/banner.png)
 
@@ -109,7 +109,7 @@ python Paypain.py -i 192.168.1.100 -p 4444 -t download_execute -s linux -o paylo
 
 ## Contribución
 
-Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
+Las contribuciones son bienvenidas:
 
 1. Haz un fork del repositorio
 2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
